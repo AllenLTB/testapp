@@ -26,3 +26,4 @@ jumpserver_service_admin:x:1000:1000::/home/jumpserver_service_admin:/bin/bash
 tianbao1:x:1001:1001::/home/tianbao1:/bin/bash
 nginx:x:993:991::/home/nginx:/sbin/nologin
 tianbao3:x:1002:1002::/home/tianbao3:/bin/bash
+test123
